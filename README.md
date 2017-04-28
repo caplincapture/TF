@@ -1,2 +1,2 @@
 # TF
-Tensorflow functions, deep learning basics indluded.
+Implementations of common deep learning functions.
